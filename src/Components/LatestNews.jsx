@@ -9,7 +9,7 @@ const LatestNews = () => {
      <Marquee pauseOnHover={true} speed={60} className="space-x-10">
         <Link to='/news'>Lorem ipsum dolor sit amet.</Link>
         <Link to='/news'>Lorem ipsum dolor sit amet.</Link>
-        
+        <Link to='/news'>Lorem ipsum dolor sit amet.</Link>
      </Marquee>
 
     </div>
